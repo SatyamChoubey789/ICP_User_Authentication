@@ -8,4 +8,4 @@ Welcome to your new `dcurve` project and to the Internet Computer development co
 == The user friendly frontend is built using ReactJS.
 == This app is build on ICP Canister Smart contracts and Deployed on ICP blockchain.
 == ICP provides the safety of the user during authentication.
-== Check out the live app on: https://pclue-iiaaa-aaaan-qmmca-cai.icp0.io/
+== Check out the live app on: https://pzoib-sqaaa-aaaan-qmmaq-cai.icp0.io/
